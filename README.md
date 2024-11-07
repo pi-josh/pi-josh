@@ -1,4 +1,4 @@
-<h1 align="center">Hi—I'm Joshua C. Macatunao</h1>  
+<h1 align="center">Hi—I'm Josh!</h1>  
 <p align="center"><strong>Data Enthusiast | BSIT Undergraduate @PUP-Manila</strong></p>
 
 <p align="center">

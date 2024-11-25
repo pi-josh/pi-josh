@@ -2,7 +2,7 @@
 <p align="center"><strong>Data Enthusiast | BSIT Undergraduate @PUP-Manila</strong></p>
 
 <p align="center">
-  <a href="https://pi-josh.github.io/Personal-Portfolio/">My Personal Portfolio</a>
+  <a href="https://pi-josh.github.io/Personal-Portfolio/" target="_blank">My Personal Portfolio</a>
 </p>
 
 <p align="center">

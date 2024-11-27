@@ -4,7 +4,7 @@
 <p align="center">
   ⚞ <a href="https://pi-josh.github.io/Personal-Portfolio/">My Personal Portfolio</a> ⚟
 </p>
-<p align="center">\________________/</p>
+<p align="center">\_______________/</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Continuous-Improvement-blue?style=for-the-badge&logo=rocket" alt="Continuous Improvement Badge">
 </p>

@@ -2,7 +2,7 @@
 <p align="center"><strong>Data Enthusiast | BSIT Undergraduate @PUP-Manila</strong></p>
 <p align="center">/\______________/\</p>
 <p align="center">
-  ⚞ <a style="text-decoration: none;" "href="https://pi-josh.github.io/Personal-Portfolio/">--- Click Me ---</a> ⚟
+  ⚞ <a href="https://pi-josh.github.io/Personal-Portfolio/">Don't touch me!</a> ⚟
 </p>
 <p align="center">\_______________/</p>
 <p align="center">

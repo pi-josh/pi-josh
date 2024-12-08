@@ -4,7 +4,7 @@
 in a work setting and contribute to solving real-world problems through data-driven insights.</p>
 <p align="center">/\______________/\</p>
 <p align="center">
-  ⚞ <a href="https://pi-josh.github.io/Personal-Portfolio/">Don't touch me!</a> ⚟
+  ⚞ <a href="https://pi-josh.github.io/Portfolio/">Don't touch me!</a> ⚟
 </p>
 <p align="center">\_______________/</p>
 <p align="center">

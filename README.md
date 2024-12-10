@@ -13,3 +13,6 @@ in a work setting and contribute to solving real-world problems through data-dri
 <p align="center">
   <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="GIF" width="60%">
 </p>
+<p align="center">
+  <img src="./assets/img/deep-work-streak.png" alt="Deep Work Session Streak">
+</p>

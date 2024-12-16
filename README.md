@@ -13,7 +13,7 @@ in a work setting and contribute to solving real-world problems through data-dri
 <!-- Skills Section -->
 <h3 align="center">Skills & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Google%20Sheets-333333?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
   <img src="https://img.shields.io/badge/Power%20BI-333333?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python">

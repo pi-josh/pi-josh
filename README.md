@@ -13,13 +13,13 @@ in a work setting and contribute to solving real-world problems through data-dri
 <!-- Skills Section -->
 <h3 align="center">Skills & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Sheets-333333?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
-  <img src="https://img.shields.io/badge/Power%20BI-333333?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Spreadsheet-333333?style=for-the-badge&logo=grid&logoColor=white" alt="Spreadsheet">
+  <img src="https://img.shields.io/badge/Power%20BI-333333?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/Tableau-333333?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Data%20Visualization-333333?style=for-the-badge&logo=chartbar&logoColor=white" alt="Data Visualization">
-  <img src="https://img.shields.io/badge/Problem%20Solving-333333?style=for-the-badge&logo=gear&logoColor=white" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Data%20Visualization-333333?style=for-the-badge&logo=chart-line&logoColor=white" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Problem%20Solving-333333?style=for-the-badge&logo=cogs&logoColor=white" alt="Problem Solving">
 </p>
 <hr>
 

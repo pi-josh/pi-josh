@@ -2,7 +2,7 @@
 <h1 align="center">✩₊˚.⋆☾⋆⁺₊✧  Hi—I'm Josh!  ^•ﻌ•^ฅ♡</h1>
 <p align="center"><strong>Data Enthusiast | BSIT Undergraduate @PUP-Manila</strong><p>
 <p align="center">A system-driven aspiring data analyst with a goal to apply practical experience 
-in a work setting and contribute to solving real-world problems through data-driven insights.</p>
+in a work setting and contribute to solving real-world problems through data tools and data-driven insights.</p>
 <p align="center">/\______________/\</p>
 <p align="center">
   ⚞ <a href="https://pi-josh.github.io/Portfolio/">Don't touch me!</a> ⚟
